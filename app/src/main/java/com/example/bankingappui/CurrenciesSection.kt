@@ -47,7 +47,7 @@ import com.example.bankingappui.ui.theme.GreenStart
 val currencies = listOf(
     Currency(
         name = "USD",
-        buy = 23.35f,
+        buy = 23.356f,
         sell = 23.25f,
         icon = Icons.Rounded.AttachMoney
     ),
